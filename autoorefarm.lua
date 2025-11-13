@@ -17,7 +17,7 @@ local oreNames = {
     "titaniumOre",
     "uraniumOre",
     "platinumOre",
-    "sunstoneOre"
+    "sunstoneOre",
     "moonstoneOre"
 }
 
