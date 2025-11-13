@@ -8,7 +8,7 @@ local damageRemote = OreService.damage._re
 
 local oreNames = {
     "ironOre",
-    "golfOre",
+    "goldOre",
     "diamondOre",
     "rubyOre",
     "emeraldOre",
