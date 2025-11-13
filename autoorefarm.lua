@@ -18,6 +18,7 @@ local oreNames = {
     "uraniumOre",
     "platinumOre",
     "sunstoneOre"
+    "moonstoneOre"
 }
 
 local enabledOres = {}
